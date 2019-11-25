@@ -437,7 +437,6 @@ DEPENDENCIES
   listen
   localized_language_select!
   minitest-rails-capybara
-  mysql2
   nokogiri
   omniauth-google-oauth2
   omniauth-ldap
@@ -464,7 +463,6 @@ DEPENDENCIES
   rqrcode
   sass-rails
   simple_form
-  sqlite3
   sucker_punch
   transitions
   uglifier
@@ -472,4 +470,4 @@ DEPENDENCIES
   yard
 
 BUNDLED WITH
-   1.17.3
+   2.0.2
